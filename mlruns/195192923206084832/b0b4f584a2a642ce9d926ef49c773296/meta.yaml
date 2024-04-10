@@ -1,0 +1,15 @@
+artifact_uri: file://D:/IT/Data_science/lessons/kaggle 7/mlruns/195192923206084832/b0b4f584a2a642ce9d926ef49c773296/artifacts
+end_time: 1712778058293
+entry_point_name: ''
+experiment_id: '195192923206084832'
+lifecycle_stage: active
+run_id: b0b4f584a2a642ce9d926ef49c773296
+run_name: Final params
+run_uuid: b0b4f584a2a642ce9d926ef49c773296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712777868495
+status: 3
+tags: []
+user_id: ksush

@@ -1,0 +1,15 @@
+artifact_uri: file://D:/IT/Data_science/lessons/kaggle 7/mlruns/195192923206084832/d203555529d74f8aab28a86448baf199/artifacts
+end_time: 1712775935366
+entry_point_name: ''
+experiment_id: '195192923206084832'
+lifecycle_stage: active
+run_id: d203555529d74f8aab28a86448baf199
+run_name: Conv1_out = 32
+run_uuid: d203555529d74f8aab28a86448baf199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712775809445
+status: 3
+tags: []
+user_id: ksush

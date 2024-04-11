@@ -1,0 +1,16 @@
+artifact_uri: file://D:/IT/Data_science/lessons/kaggle 7/mlruns/195192923206084832/14c93482bd20420e86edcbf0f0125168/artifacts
+deleted_time: 1712826792533
+end_time: 1712826412355
+entry_point_name: ''
+experiment_id: '195192923206084832'
+lifecycle_stage: deleted
+run_id: 14c93482bd20420e86edcbf0f0125168
+run_name: paddings vice versa
+run_uuid: 14c93482bd20420e86edcbf0f0125168
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712826155845
+status: 3
+tags: []
+user_id: ksush

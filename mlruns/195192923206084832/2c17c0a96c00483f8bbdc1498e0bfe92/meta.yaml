@@ -1,0 +1,16 @@
+artifact_uri: file://D:/IT/Data_science/lessons/kaggle 7/mlruns/195192923206084832/2c17c0a96c00483f8bbdc1498e0bfe92/artifacts
+deleted_time: 1712822881581
+end_time: 1712822170750
+entry_point_name: ''
+experiment_id: '195192923206084832'
+lifecycle_stage: deleted
+run_id: 2c17c0a96c00483f8bbdc1498e0bfe92
+run_name: Add conv2
+run_uuid: 2c17c0a96c00483f8bbdc1498e0bfe92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712822168345
+status: 4
+tags: []
+user_id: ksush

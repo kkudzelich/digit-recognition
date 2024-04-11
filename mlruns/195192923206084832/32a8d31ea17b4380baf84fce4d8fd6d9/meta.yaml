@@ -4,7 +4,7 @@ entry_point_name: ''
 experiment_id: '195192923206084832'
 lifecycle_stage: active
 run_id: 32a8d31ea17b4380baf84fce4d8fd6d9
-run_name: Lr = 0.0001, n_epoch =6
+run_name: n_epoch =6
 run_uuid: 32a8d31ea17b4380baf84fce4d8fd6d9
 source_name: ''
 source_type: 4
